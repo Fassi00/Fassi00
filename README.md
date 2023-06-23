@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhammad Fathi</h1>
 <h3 align="center">A passionate Software developer from Cairo</h3>
 
-- 🔭 I’m currently working on **Self Training**
+- 🔭 I’m currently working at EFG-HEMRS
 
-- 🌱 I’m currently learning **Rest Full API**
+- 🌱 I’m currently learning Clean Architecture
 
 - 👨‍💻 All of my projects are available at [https://github.com/MuhammadFathiAli](https://github.com/MuhammadFathiAli)
 
-- 💬 Ask me about **C#, OOP, Dot Net and Dot Net Core**
+- 💬 Ask me about **C#, OOP, DotNet FrameWork, Dot Net and Dot Net Core, RabbitMQ, HTML and FIX Protocol**
 
 - 📫 How to reach me **muhammad.fathi64@gmail.com**
 
